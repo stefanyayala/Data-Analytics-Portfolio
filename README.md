@@ -16,23 +16,23 @@ This repository showcases a series of **data analytics projects** designed to hi
 ### 📌 List of Projects
 1. **[Project 1: Data Cleaning](Project-1-Data-Cleaning/Readme/README.md)**
    - Tools: Python, Pandas
-   - Objective: Cleaning messy datasets by handling missing values, duplicates, and inconsistencies.
+   - Description: Demonstrates cleaning messy datasets, handling missing values, duplicates, and inconsistencies using Python and SQL.
 
 2. **[Project 2: API Integration](Project-2-API-Integration/Readme/README.md)**
    - Tools: Python, Requests
-   - Objective: Extracting data from APIs and integrating it for further analysis.
+   - Description: Focuses on fetching and processing data from APIs, showcasing integration with real-world data sources like weather or stock APIs.
 
 3. **[Project 3: SQL Queries](Project-3-SQL-Queries/Readme/README.md)**
    - Tools: PostgreSQL
-   - Objective: Writing advanced SQL queries to derive insights from structured databases.
+   - Description: Features SQL querying skills, including joins, aggregations, and other advanced techniques using sample datasets.
 
 4. **[Project 4: Power BI Dashboards](Project-4-PowerBI-Dashboards/Readme/README.md)**
    - Tools: Power BI
-   - Objective: Building interactive dashboards to visualize trends and insights.
+   - Description: Building interactive dashboards to visualize trends and insights using Power BI.
 
 5. **[Project 5: Python Data Analysis](Project-5-Python-Data-Analysis/Readme/README.md)**
    - Tools: Python, Matplotlib, Seaborn
-   - Objective: Conducting exploratory data analysis (EDA) and identifying patterns or trends.
+   - Description: Applies Python for data analysis, conducting exploratory data analysis (EDA), uncovering trends, patterns, and actionable insights using various libraries like Pandas and Matplotlib.
 
 ---
 
@@ -42,6 +42,9 @@ Each project folder contains:
 - `Data/`: Raw and processed datasets.
 - `Readme/`: Detailed documentation explaining the project's goals, methods, and outcomes.
 
+View Visual Outputs:
+- For projects involving dashboards or visuals, you’ll find screenshots or PDFs in the respective /Readme folders.
+  
 ---
 
 ## 🌟 Featured Skills
