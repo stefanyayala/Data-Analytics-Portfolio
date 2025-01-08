@@ -61,6 +61,6 @@ I am seeking a full-time role where I can drive meaningful outcomes through adva
 ---
 
 ## 📧 Contact
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/stefany-ayala/)
+- **LinkedIn:** [Stefany Ayala](https://www.linkedin.com/in/stefany-ayala/)
 - **Email:** stefanyayala60@gmail.com
 
