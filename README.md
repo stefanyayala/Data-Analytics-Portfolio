@@ -16,7 +16,7 @@ This repository showcases a series of **data analytics projects** designed to hi
 ### 📌 List of Projects
 1. **[Project 1: Data Cleaning](Project-1-Data-Cleaning/README.md)**
    - Tools: Python, Pandas
-   - Description: Demonstrates cleaning messy datasets, handling missing values, duplicates, and inconsistencies using Python and SQL.
+   - Description: Demonstrates cleaning messy datasets, handling missing values, duplicates, and inconsistencies using Python.
 
 2. **[Project 2: API Integration](Project-2-API-Integration/README.md)**
    - Tools: Python, Requests
