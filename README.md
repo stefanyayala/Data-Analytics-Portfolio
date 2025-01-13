@@ -14,23 +14,23 @@ With a strong foundation in **economics** and a track record of working with IT 
 This repository showcases a series of **data analytics projects** designed to highlight my technical skills and ability to solve real-world problems. Each project demonstrates a different aspect of the data analytics lifecycle, from data cleaning and API integration to dashboard creation and advanced data analysis.
 
 ### 📌 List of Projects
-1. **[Project 1: Data Cleaning](Project-1-Data-Cleaning/Readme/README.md)**
+1. **[Project 1: Data Cleaning](Project-1-Data-Cleaning/README.md)**
    - Tools: Python, Pandas
    - Description: Demonstrates cleaning messy datasets, handling missing values, duplicates, and inconsistencies using Python and SQL.
 
-2. **[Project 2: API Integration](Project-2-API-Integration/Readme/README.md)**
+2. **[Project 2: API Integration](Project-2-API-Integration/README.md)**
    - Tools: Python, Requests
    - Description: Focuses on fetching and processing data from APIs, showcasing integration with real-world data sources like weather or stock APIs.
 
-3. **[Project 3: SQL Queries](Project-3-SQL-Queries/Readme/README.md)**
+3. **[Project 3: SQL Queries](Project-3-SQL-Queries/README.md)**
    - Tools: PostgreSQL
    - Description: Features SQL querying skills, including joins, aggregations, and other advanced techniques using sample datasets.
 
-4. **[Project 4: Power BI Dashboards](Project-4-PowerBI-Dashboards/Readme/README.md)**
+4. **[Project 4: Power BI Dashboards](Project-4-PowerBI-Dashboards/README.md)**
    - Tools: Power BI
    - Description: Building interactive dashboards to visualize trends and insights using Power BI.
 
-5. **[Project 5: Python Data Analysis](Project-5-Python-Data-Analysis/Readme/README.md)**
+5. **[Project 5: Python Data Analysis](Project-5-Python-Data-Analysis/README.md)**
    - Tools: Python, Matplotlib, Seaborn
    - Description: Applies Python for data analysis, conducting exploratory data analysis (EDA), uncovering trends, patterns, and actionable insights using various libraries like Pandas and Matplotlib.
 
