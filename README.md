@@ -26,14 +26,6 @@ This repository showcases a series of **data analytics projects** designed to hi
    - Tools: PostgreSQL
    - Description: Features SQL querying skills, including joins, aggregations, and other advanced techniques using sample datasets.
 
-4. **[Project 4: Power BI Dashboards](Project-4-PowerBI-Dashboards/README.md)**
-   - Tools: Power BI
-   - Description: Building interactive dashboards to visualize trends and insights using Power BI.
-
-5. **[Project 5: Python Data Analysis](Project-5-Python-Data-Analysis/README.md)**
-   - Tools: Python, Matplotlib, Seaborn
-   - Description: Applies Python for data analysis, conducting exploratory data analysis (EDA), uncovering trends, patterns, and actionable insights using various libraries like Pandas and Matplotlib.
-
 ---
 
 ## 🔗 How to Navigate the Repo
