@@ -26,6 +26,7 @@ This repository showcases a series of **data analytics projects** designed to hi
    - Tools: PostgreSQL
    - Description: Features SQL querying skills, including joins, aggregations, and other advanced techniques using sample datasets.
 
+**-- Projects Status: Active**
 ---
 
 ## 🔗 How to Navigate the Repo
