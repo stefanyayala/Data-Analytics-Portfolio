@@ -13,16 +13,16 @@ With a strong foundation in **economics** and a track record of working with IT 
 ## 📂 Portfolio Overview
 This repository showcases a series of **data analytics projects** designed to highlight my technical skills and ability to solve real-world problems. Each project demonstrates a different aspect of the data analytics lifecycle, from data cleaning and API integration to dashboard creation and advanced data analysis.
 
-### 📌 List of Projects (**Projects Status: Active**)
+### 📌 List of Projects 
 1. **[Project 1: Data Cleaning](Project-1-Data-Cleaning/README.md)**
    - Tools: Python, Pandas
    - Description: Demonstrates cleaning messy datasets, handling missing values, duplicates, and inconsistencies using Python.
 
-2. **[Project 2: API Integration](Project-2-API-Integration/README.md)**
+2. **[Project 2: API Integration](Project-2-API-Integration/README.md)** (**Project Status: Active**)
    - Tools: Python, Requests
    - Description: Focuses on fetching and processing data from APIs, showcasing integration with real-world data sources like weather or stock APIs.
 
-3. **[Project 3: SQL Queries](Project-3-SQL-Queries/README.md)**
+3. **[Project 3: SQL Queries](Project-3-SQL-Queries/README.md)** (**Project Status: Active**)
    - Tools: PostgreSQL
    - Description: Features SQL querying skills, including joins, aggregations, and other advanced techniques using sample datasets.
 
