@@ -74,6 +74,3 @@ Then, follow these steps:
 
 The final cleaned dataset will be saved as `cleaned_steam_data.csv` in the `files` folder.
 
-## Conclusion
-
-This project demonstrates a robust, efficient, and repeatable data pipeline for cleaning and preparing datasets in the business intelligence context. The cleaned and transformed dataset is now ready for analysis, reporting, and decision-making, providing key insights into Steam game data.
