@@ -76,8 +76,8 @@ To get started with this project, you'll need Python 3.7 or higher installed. Yo
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/api-integration-stock-data.git
-cd api-integration-stock-data
+git clone https://github.com/stefanyayala/Data-Analytics-Portfolio.git
+cd Project-2-API-Integration
 ```
 
 2. Create a virtual environment:
