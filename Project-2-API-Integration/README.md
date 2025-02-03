@@ -197,7 +197,7 @@ The tests include functions for:
 
 ## Contributing
 
-We welcome contributions to this project. If you wish to contribute:
+Contributions to this project are welcomed. If you wish to contribute:
 
 1. Fork the repository.
 2. Create a new branch.
