@@ -1,7 +1,7 @@
 import requests
 import json
 import os
-
+ 
 API_KEY = "your_api_here"
 STOCK_SYMBOL = "AAPL"
 URL = f"https://www.alphavantage.co/query?function=TIME_SERIES_DAILY&symbol={STOCK_SYMBOL}&apikey={API_KEY}"
