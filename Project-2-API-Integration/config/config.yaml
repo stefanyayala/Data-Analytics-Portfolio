@@ -1,0 +1,10 @@
+api:
+  key: "your_api_here"
+  url: "https://www.alphavantage.co/query?function=TIME_SERIES_DAILY&symbol={symbol}&apikey={key}"
+
+stock:
+  symbol: "AAPL"
+  intervals:
+    - "1min"
+    - "5min"
+    - "daily"
