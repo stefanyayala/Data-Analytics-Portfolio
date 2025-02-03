@@ -18,7 +18,7 @@ This repository showcases a series of **data analytics projects** designed to hi
    - Tools: Python, Pandas
    - Description: Demonstrates cleaning messy datasets, handling missing values, duplicates, and inconsistencies using Python.
 
-2. **[Project 2: API Integration](Project-2-API-Integration/README.md)** (**Project Status: Not Started**)
+2. **[Project 2: API Integration](Project-2-API-Integration/README.md)** (**Project Status: Active**)
    - Tools: Python, Requests
    - Description: Focuses on fetching and processing data from APIs, showcasing integration with real-world data sources like weather or stock APIs.
 
